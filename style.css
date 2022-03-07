@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 30px;
+}
+body a{
+    text-decoration: none;
+    color: #ffffff;
+    background-color: rgb(33, 151, 206);
+    padding: 10px;
+    border: 1px solid rgb(21, 135, 155);
+    border-radius: 25px;
+}
+body a:visited{
+    text-decoration: none;
+}
